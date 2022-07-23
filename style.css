@@ -14,7 +14,7 @@ body{
     align-items: center;
     min-height: 100vh;
     margin: 0 auto;
-    
+    background-color: var(--Very-light-gray);
 }
 
 /* 
@@ -165,7 +165,7 @@ h1, h2, h3{
 /* MEDIA QUERY 375 */
 
 
-@media (max-width: 500px) {
+@media (max-width: 907px) {
     body{
         display: flex;
         flex-direction: column;
